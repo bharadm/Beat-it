@@ -1,0 +1,34 @@
+Mono path[0] = 'C:/Users/Bharadwaj/Desktop/New Shop/AUnity/Projects/Beat it/Chase_Data/Managed'
+Mono path[1] = 'C:/Users/Bharadwaj/Desktop/New Shop/AUnity/Projects/Beat it/Chase_Data/Mono'
+Mono config path = 'C:/Users/Bharadwaj/Desktop/New Shop/AUnity/Projects/Beat it/Chase_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Bharadwaj/Desktop/New Shop/AUnity/Projects/Beat it/Chase_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55177
+Broadcasting "[IP] 169.254.147.207 [Port] 55177 [Flags] 2 [Guid] 741339783 [EditorId] 1009118306 [Version] 1048832 [Id] WindowsPlayer(Bharadwaj-PC) [Debug] 0" to [169.254.255.255:54997]...
+PlayerConnection already initialized - listening to [169.254.147.207:55177]
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x156)
+    Vendor:   Intel
+    VRAM:     912 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Bharadwaj\Desktop\New Shop\AUnity\Projects\Beat it\Chase_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bharadwaj\Desktop\New Shop\AUnity\Projects\Beat it\Chase_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Bharadwaj\Desktop\New Shop\AUnity\Projects\Beat it\Chase_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Bharadwaj\Desktop\New Shop\AUnity\Projects\Beat it\Chase_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Bharadwaj\Desktop\New Shop\AUnity\Projects\Beat it\Chase_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Bharadwaj\Desktop\New Shop\AUnity\Projects\Beat it\Chase_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Bharadwaj\Desktop\New Shop\AUnity\Projects\Beat it\Chase_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Bharadwaj\Desktop\New Shop\AUnity\Projects\Beat it\Chase_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.113 seconds
+Platform assembly: C:\Users\Bharadwaj\Desktop\New Shop\AUnity\Projects\Beat it\Chase_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Bharadwaj\Desktop\New Shop\AUnity\Projects\Beat it\Chase_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 50.271526 ms
+Platform assembly: C:\Users\Bharadwaj\Desktop\New Shop\AUnity\Projects\Beat it\Chase_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2900 -> priority: 1 
